@@ -15,7 +15,7 @@ A DIY electronic drum set
 Or clone the repository directly in the Arduino libraries folder:
 
 ```
-git clone git@github.com:Julien Lebunetel/Arduino-Drum-Set-Library.git
+git clone git@github.com:jlebunetel/Arduino-Drum-Set-Library.git
 ```
 
 In the Arduino IDE, look at `File/Examples/Arduino_Drum_Set` folder to load an example sketch.
